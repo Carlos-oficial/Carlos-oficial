@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Carlos
+
+I'm a CS and Software engineering student at the University of Minho - Portugal
+
+I'm profficient in Python, C, Haskell and HTML/CSS.
+
+I also dabble in JavaScript
+
+<!--
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=carlos-oficial&count_private=true&show_icons=true&theme=dracula&hide=contribs&hide_border=true)-->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-oficial&count_private=true&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Carlos-oficial/Carlos-oficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
